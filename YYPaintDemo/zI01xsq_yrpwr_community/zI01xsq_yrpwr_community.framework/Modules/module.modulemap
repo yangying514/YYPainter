@@ -1,6 +1,0 @@
-framework module zI01xsq_yrpwr_community {
-  umbrella header "zI01xsq_yrpwr_community.h"
-
-  export *
-  module * { export * }
-}
