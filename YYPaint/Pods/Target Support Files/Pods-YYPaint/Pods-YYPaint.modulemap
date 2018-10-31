@@ -1,0 +1,6 @@
+framework module Pods_YYPaint {
+  umbrella header "Pods-YYPaint-umbrella.h"
+
+  export *
+  module * { export * }
+}

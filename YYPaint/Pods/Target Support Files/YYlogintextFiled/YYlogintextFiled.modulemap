@@ -1,0 +1,6 @@
+framework module YYlogintextFiled {
+  umbrella header "YYlogintextFiled-umbrella.h"
+
+  export *
+  module * { export * }
+}
